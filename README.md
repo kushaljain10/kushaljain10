@@ -1,4 +1,4 @@
-![Header image](https://raw.githubusercontent.com/kushaljain10/kushaljain10/master/Assets/GitHub_Header.png)
+![Header image](https://raw.githubusercontent.com/kushaljain10/kushaljain10/main/Assets/GitHub_Header.png)
 
 I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.
 
